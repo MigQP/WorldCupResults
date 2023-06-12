@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "371d98f7-19bd-4b45-59bc-e440a2eb7381",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "worldCup_logo_01",
+    "objGuid": "Guid(5601375475941075274, 7115555424616453035)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

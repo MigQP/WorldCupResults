@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "53cdacb9-7930-7cc9-f672-f1b5cdc83ba3",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "catar",
+    "objGuid": "Guid(5733790788775480766, 11754400696824356508)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

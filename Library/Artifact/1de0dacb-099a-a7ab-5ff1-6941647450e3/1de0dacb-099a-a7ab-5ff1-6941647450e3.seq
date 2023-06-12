@@ -1,0 +1,21 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: countries
+guid: {a: 4991051795130823772, b: 8476202930278872193}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 1de0dacb-099a-a7ab-5ff1-6941647450e3--0.imageatlas}
+  - {localId: 1, path: 1de0dacb-099a-a7ab-5ff1-6941647450e3--1.imageatlas}
+  - {localId: 1, path: 1de0dacb-099a-a7ab-5ff1-6941647450e3--2.imageatlas}
+  - {localId: 1, path: 1de0dacb-099a-a7ab-5ff1-6941647450e3--3.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "13309955-483d-2a6b-ada5-056f6467b3df",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "paises",
+    "objGuid": "Guid(4612915736999472963, 11553400244598136729)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

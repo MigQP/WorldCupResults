@@ -1,0 +1,24 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: catar (1)
+guid: {a: 5545238919019408218, b: 15723699307092042406}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 04b2324b-36a6-e168-2a29-8a00d3708152--0.imageatlas}
+  - {localId: 1, path: 04b2324b-36a6-e168-2a29-8a00d3708152--1.imageatlas}
+  - {localId: 1, path: 04b2324b-36a6-e168-2a29-8a00d3708152--2.imageatlas}
+  - {localId: 1, path: 04b2324b-36a6-e168-2a29-8a00d3708152--3.imageatlas}
+  - {localId: 1, path: 04b2324b-36a6-e168-2a29-8a00d3708152--4.imageatlas}
+  - {localId: 1, path: 04b2324b-36a6-e168-2a29-8a00d3708152--5.imageatlas}
+  - {localId: 1, path: 04b2324b-36a6-e168-2a29-8a00d3708152--6.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0
